@@ -1,4 +1,4 @@
-```powershell
+powershell
 # Script to create and enable a new Active Directory user
 # Author: Igor Bordushko
 
